@@ -8,5 +8,11 @@
  * @author TARUC
  */
 public class asdasdasd {
+    String asda = "hi";
+    String act = "123aad";
     
+    public void main(String[] args) {
+        System.out.println(asda);
+        System.out.println(act);
+    }
 }

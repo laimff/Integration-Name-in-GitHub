@@ -10,5 +10,9 @@
 public class helpme {
     String help;
     
-   
+   public void helpme(){
+       help = "IN THE EYEEEEEEEEEEEEEEEEEEEEEEE";
+       
+       System.out.println(help);
+   }
 }
